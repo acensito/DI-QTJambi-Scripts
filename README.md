@@ -16,6 +16,8 @@ Para poderlos utilizar, sigue los siguientes pasos:
 - Estos scripts me han funcionado bajo Windows 10, QT Jambi 4.8.6 y 4.5.2 con Java 17 LTS y Netbeans 23.
 
 ## Mejoras
-- El script juic.vbs procesará por lotes sin tanto mensaje.
+- 29/10/2024: corregido un fallo que no permitia la ejecucion si se movia la ubicacion de la carpeta.
+- 24/10/2024: El script juic.vbs procesará por lotes sin tanto mensaje.
 
+## Comentarios
 - Si tienes alguna mejora, haz un pull request, serán bienvenidas!
